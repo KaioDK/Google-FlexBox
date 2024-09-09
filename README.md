@@ -1,1 +1,1 @@
-[# Google-FlexBox](https://kaiodk.github.io/Google-FlexBox/)
+https://kaiodk.github.io/Google-FlexBox/
